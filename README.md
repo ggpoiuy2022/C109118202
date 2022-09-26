@@ -11,4 +11,4 @@
 2
 ```
 
-![th(1)](th(1).jpg "th(1)")
+![NKUST](NKUST.png "NKUST")
